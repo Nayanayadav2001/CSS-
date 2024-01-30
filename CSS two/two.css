@@ -1,0 +1,19 @@
+.deepika{
+    background-color: yellow;
+}
+.vijay{
+    background-color: blue;
+    color: aqua;
+}
+.siri{
+    background-color: deeppink;
+}
+#rahul{
+    background-color: aqua;
+}
+h1,h3{
+    background-color:orange;
+}
+*{
+    background-color: grey;
+}
